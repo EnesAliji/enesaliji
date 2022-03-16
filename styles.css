@@ -9,6 +9,7 @@ body{
     width: 100vw;
     text-align: center;
     overflow-x: hidden;
+    background-color: rgba(241, 241, 194, 0.411);
 }
 
 img{
