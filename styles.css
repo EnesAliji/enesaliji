@@ -175,6 +175,7 @@ CONTACT US SECTION
 
    .title-image-column{
        flex-direction: column;
+       flex: 30%;
        
    }
 
