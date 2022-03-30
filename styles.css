@@ -167,6 +167,7 @@ CONTACT US SECTION
 
     .recent-work{
        flex-direction: row;
+       align-items: center;
     }
 
     .recent-work-image{
