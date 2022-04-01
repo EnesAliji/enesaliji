@@ -226,11 +226,11 @@ CONTACT US SECTION
 }
 
 .delay1{
-    animation-delay: 0.5s;
+    animation-delay: 0.2s;
 }
 
 .delay2{
-    animation-delay: 1.5s;
+    animation-delay: 0.5s;
 }
 
 @keyframes fadeIn{
